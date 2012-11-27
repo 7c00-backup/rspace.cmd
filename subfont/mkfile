@@ -1,0 +1,8 @@
+<$PLAN9/src/mkhdr
+
+TARG=sfdouble
+
+OFILES=\
+	sfdouble.$O\
+
+<$PLAN9/src/mkone
